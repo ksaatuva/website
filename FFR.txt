@@ -1,0 +1,8 @@
+For future references: 
+
+How to change the YouTube video header: 
+    Line 35 in home.html, change the YouTube video link with the embed link of the video that you want to change it to. 
+    
+How to change the photo header on other pages: 
+    1. Save the image inside the assets/css/images/ folder 
+    2. Change the image url in line 2080 of main.css 
